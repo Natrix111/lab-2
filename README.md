@@ -3,7 +3,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-   git clone https://github.com/Natrix111/booking-rooms.git
+   git clone https://github.com/Natrix111/lab-2.git
 ```
 
 2. Перейдите в директорию проекта:
